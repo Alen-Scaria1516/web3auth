@@ -1,0 +1,44 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: url(gradient.png);
+    background-size: cover;
+}
+.card
+{
+    padding: 2rem;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    width: auto;
+    height: auto;
+    background: rgba(240, 177, 242, 0.422);
+    border-radius: 5rem;
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.895) , 0 6px 20px 0 rgba(255, 255, 255, 0.918);
+    font-size: 120%;;
+    
+}
+.btn
+{
+    
+    padding:3rem;
+    margin: 5rem;
+}
+.metamask-img
+{
+    width: 40%;
+    height: 40%;;
+    border-radius: 2rem;
+
+}
+.wc-img
+{
+    width: 40%;
+    height: 40%;;
+    border-radius: 2rem;
+
+
+}

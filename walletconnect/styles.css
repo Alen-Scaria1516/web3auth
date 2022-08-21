@@ -1,0 +1,61 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: url(gradient.png);
+    background-size: cover;
+}
+b{
+    color: #8a2be2;
+    box-shadow: inset 10rem;
+    font-size: 140%;
+}
+.topic-line
+{
+    text-decoration-style: solid;
+    text-emphasis-color: white;
+}
+.card
+{
+    background: rgba(240, 177, 242, 0.422);
+    border-radius: 5rem;
+    text-align:center;
+    color: aliceblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    margin-top: 10%;
+    padding: 5rem 5rem 5rem ;
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.895) , 0 6px 20px 0 rgba(255, 255, 255, 0.918);
+    font-size: 120%;;
+
+}
+.btn
+{
+    width: fit-content;
+}
+.page-link
+{
+    color: antiquewhite;
+}
+.page-link:hover{
+    text-decoration: underline;
+}
+#connectButton
+{
+    font-size: 2rem;
+    margin: 2rem;
+    padding: 1rem;
+    
+}
+.connected
+{
+    color: #FFE9FF;
+    background-color: rgba(96, 255, 96, 0.776);
+    font-size: 2rem;
+    border-radius: 5rem;
+    --bs-btn-hover-color: rgba(96, 255, 96, 0.776);
+    --bs-btn-border-color: var(--bd-violet);
+
+}
